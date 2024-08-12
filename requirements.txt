@@ -82,7 +82,7 @@ nbdime~=3.1.0
 numexpr~=2.7.3
 
 # Optional: these libraries can be useful in the chapter 3, exercise 4.
-nltk~=3.6.5
+nltk~=3.8.2
 urlextract~=1.4.0
 
 # Optional: these libraries are only used in chapter 16
